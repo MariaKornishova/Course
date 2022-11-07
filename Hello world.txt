@@ -1,5 +1,5 @@
-print "Hello!"
-print "everybody"
-print "Hello"
-print "Hello, my darling!"
-print "Hello, my friends!"
+print("Hello!")
+print("everybody")
+print("Hello")
+print("Hello, my darling!")
+print("Hello, my friends!")
